@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyCRUD2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tampil_pegawai">TampilPegawai</string>
+    <string name="title_activity_tampil_semua_pgw">TampilSemuaPgw</string>
+</resources>
